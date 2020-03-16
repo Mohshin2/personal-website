@@ -1,0 +1,51 @@
+.first-baground{
+    margin: 0px;
+    background-image: url("header-bg.png");
+
+}
+
+
+.mainsection{
+ margin-left: 128px;
+
+
+}
+
+
+h1{
+font-size: 50px;
+}
+
+.name-highlight{
+color: orange;
+
+}
+
+.first-section{
+width: 40%;
+margin-left: 5%;
+padding-left: 5%;
+float: left;
+margin-bottom: 150px;
+}
+
+.first-section img{
+width: 100%;
+
+}
+
+.picture1{
+
+
+}
+
+.section3{
+
+    color: blue;
+}
+
+.h3{
+    color: blue;
+    margin-top: 150px;
+
+}
